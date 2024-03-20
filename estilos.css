@@ -1,0 +1,75 @@
+body{
+    align-items: center;
+}
+.contenedor{
+    display: flex;
+    border: 5px solid red;
+    height: 300px;
+    width: 500px;
+}
+.aqua{
+    background-color: aquamarine;
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.azul{
+    background-color: rgb(0, 119, 255);
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.morado{
+    background-color: rgb(144, 0, 255);
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.azulO{
+    background-color: rgb(0, 34, 90);
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.amarillo{
+    background-color: rgb(255, 208, 0);
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.naranja{
+    background-color: rgb(255, 132, 0);
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.rojo{
+    background-color: rgb(255, 0, 0);
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.gris{
+    background-color: rgb(199, 234, 255);
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.verdeC{
+    background-color: rgb(0, 255, 170);
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.verde{
+    background-color: rgb(1, 140, 103);
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
+.aqua{
+    background-color: aquamarine;
+    color: rgb(172, 172, 172);
+    padding: 5px 2px 95px ;
+    font-size: 30px;
+}
